@@ -1,0 +1,130 @@
+body{
+background-color: rgb(244, 248, 249);
+font-family: Helvetica;
+
+
+}
+
+#tweet-box {
+ width: 1000px;
+ background-color:rgb(255, 255, 255);
+ height: 300px;
+ border: 2px rgb(225, 232, 237) solid;
+ margin: 10px 25px;
+ border-radius: 7px;
+}
+
+#avatar {
+float: left;
+position: absolute;
+margin-top: 38px;
+margin-left: 38px;
+}
+
+#boy {
+  float: left;
+  position: absolute;
+  margin-top: 38px;
+  margin-left: 140px;
+}
+
+#boss {
+  postion: absolute;
+  font-size: 27px;
+  font-weight: bold;
+  margin-left: 163px;
+  margin-top: 40px;
+
+}
+
+#confirm {
+  float: left;
+  position: absolute;
+  margin-left: 226px;
+  margin-top:36px;
+}
+
+#nickname {
+  position: absolute;
+  margin-left: 137px;
+  color: rgb(105, 120, 130);
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+#thefirst {
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 38px;
+  font-size: 32px;
+}
+
+#date {
+  position: absolute;
+  margin-top: 108px;
+  margin-left: 38px;
+  font-size: 27px;
+  color: rgb(105, 120, 130);
+}
+
+#answer {
+  position: absolute;
+  margin-top: 165px;
+  margin-left: 38px;
+}
+
+#retweetslikes {
+  position:absolute;
+  margin-top: -25px;
+  margin-left: 70px;
+}
+#re-number {
+  position: absolute;
+  font-size: 27px;
+  color: rgb(105, 120, 130);
+  margin-left: 117px;
+  margin-top: -28px;
+}
+
+#favorite {
+  position: absolute;
+  margin-left: 235px;
+  margin-top: -28px;
+
+}
+
+#favorite-num {
+  position: absolute;
+  font-size: 27px;
+  color: rgb(105, 120, 130);
+  margin-left:270px;
+  margin-top: -28px
+}
+
+#follow-box {
+  position:absolute;
+  float: right;
+  width: 175px;
+  height: 65px;
+  border: solid rgb(85, 172, 238) 2px;
+  margin-top: -225px;
+  margin-left: 750px;
+  border-radius: 9px;
+  }
+
+  #follow-img {
+    position: relative;
+    margin-top: -208px;
+    margin-left: 770px;
+     }
+
+#push-follow {
+position: absolute;
+margin-left:810px;
+margin-top: -35px;
+font-size: 30px;
+font-weight: bold;
+color: rgb(85, 172, 238);
+
+}
